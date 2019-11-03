@@ -8,4 +8,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="我来自FragmentRight" />
+
+    <Button
+        android:id="@+id/button_right"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送消息到FragmentLeft" />
+
+    <TextView
+        android:id="@+id/textView_right"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="这里是来自FragmentLfet的消息" />
 </LinearLayout>
