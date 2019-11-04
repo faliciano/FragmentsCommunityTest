@@ -25,5 +25,5 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="方法二：利用FragmentRight setData API传递消息" />
+        android:text="方法二：利用FragmentRight Interface和FragmentLeft setData API传递消息，在MainActivty中绑定事件。" />
 </LinearLayout>
